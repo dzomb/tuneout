@@ -1,5 +1,5 @@
 # tuneout
-An app that writes iTunes song and artist information to a text file for use with the "text-from-file" feature of OBS streaming software.  TuneOut and OBS, used together, will display iTunes now-playing information during a stream.
+An apple script that writes iTunes song and artist information to a text file for use with the "text-from-file" feature of OBS streaming software.  TuneOut and OBS, used together, will display iTunes now-playing information during a stream.
 
 1. Open iTunes
 2. Play a song.
