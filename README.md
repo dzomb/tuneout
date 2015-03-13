@@ -12,3 +12,9 @@ An apple script that writes iTunes song and artist information to a text file fo
 WARNING - Don't select the wrong file in step 4.  This script clears the file contents and rewrites them. 
 
 To change "refresh rate" you can change the delay in the script. 
+
+Helpful tip:  goto File > Export and select the Application file format. This way you don't need to run it from Apple Script every time. (Just a convenience feature anyone might want to use.)
+
+It'll ask you to select a text file, but the first time you run it, just type in a name that doesn't already exist, and just use that same file every time. You can then add that text file to OBS and, when iTunes (or any other Music player - just change where it says "iTunes" to the name of the player, like "Spotify") is playing music the file will have the text in it. Also make sure iTunes is running. 
+
+Thanks to @NateSandstorm for pointing this out on the OBS Forums. 
