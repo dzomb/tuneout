@@ -9,6 +9,7 @@ First Time Running:
 3. Go to File > Export - File Format: Application > Save
 
 Using: 
+
 1. Open iTunes
 
 2. Play a song.
