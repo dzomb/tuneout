@@ -3,19 +3,29 @@ An apple script that writes iTunes song and artist information to a text file fo
 
 First Time Running: 
 1. Download TuneOut.scpt from my github repo
+
 2. Run the script and press cancel when asking where "TuneOut" application is (will only happen on first run) - AppleScript Editor will open.
+
 3. Go to File > Export - File Format: Application > Save
 
 Using: 
 1. Open iTunes
+
 2. Play a song.
+
 3. Run the TuneOut applescript from applescrip editor or run the application you made when you exported.
+
 4. Create or Select a text file to use.
+
 5. Create a text source in OBS and select Text-From-File
+
 6. Browse to the file you created from iTunes in step 4. 
+
 7. Format the text as you like!
 
+
 WARNING - Don't select the wrong file in step 4.  This script clears the file contents and rewrites them. 
+
 
 To change "refresh rate" you can change the delay in the script and reexport the app. 
 
