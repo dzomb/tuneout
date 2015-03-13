@@ -2,6 +2,7 @@
 An apple script that writes iTunes song and artist information to a text file for use with the "text-from-file" feature of OBS streaming software.  TuneOut and OBS, used together, will display iTunes now-playing information during a stream.
 
 First Time Running: 
+
 1. Download TuneOut.scpt from my github repo
 
 2. Run the script and press cancel when asking where "TuneOut" application is (will only happen on first run) - AppleScript Editor will open.
